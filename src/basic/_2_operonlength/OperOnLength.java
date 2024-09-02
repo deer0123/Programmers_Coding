@@ -1,7 +1,7 @@
 package basic._2_operonlength;
 
 public class OperOnLength {
-   /* # 1
+   /* #1
     public int solution(int[] num_list) {
         int answer = 0;
         if (num_list.length > 10) {
@@ -16,7 +16,7 @@ public class OperOnLength {
     }
     */
 
-   /* # 2
+   /* #2
     public int solution(int[] num_list) {
         int answer = num_list.length > 10 ? 0 : 1;
         if (num_list.length > 10) {
